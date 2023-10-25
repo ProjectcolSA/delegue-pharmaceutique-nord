@@ -4,14 +4,15 @@ PRODID:-//Apple Inc.//iPhone OS 12.1.2//EN
 N:Herrero;Anthony;;;
 FN: Anthony  Herrero
 ORG:Protein SA;
-TITLE:Responsable Région, formateur
+TITLE:Chef des ventes national 
 EMAIL;type=INTERNET;type=WORK;type=pref:a.herrero@proteinsa.com
 TEL;type=WORK;type=VOICE;type=pref:09 80 93 49 57
 TEL;type=CELL;type=VOICE:06 34 65 88 88
-item1.ADR;type=WORK;type=pref:;;27 rue du Parc\nBORDEAUX\;;;33200;France
+item1.ADR;type=WORK;type=pref:;;27 rue du Parc\nBORDEAUX\;;33200;;France
 item1.X-ABADR:sg
-X-SOCIALPROFILE;type=facebook:https://www.facebook.com/colpropur.fr/
-X-SOCIALPROFILE;type=linkedin:https://www.linkedin.com/showcase/colpropurfrance
+X-SOCIALPROFILE;type=Facebook:https://www.facebook.com/colpropur.fr/
+X-SOCIALPROFILE;type=Linkedin:https://www.linkedin.com/showcase/colpropurfrance
+X-SOCIALPROFILE;type=Instagram:https://www.instagram.com/colpropurfrance/
 item2.URL;type=pref:www.colpropur.fr
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
